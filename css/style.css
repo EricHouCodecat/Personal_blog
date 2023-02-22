@@ -51,16 +51,16 @@ a:visited {
     background-color: transparent;
     text-decoration: none;
   }
-  a:hover {
+a:hover {
     color:#219ebc;
     background-color: transparent;
     text-decoration: underline;
-  }
-  a:active {
+}
+a:active {
     color:#68d3ee;
     background-color: transparent;
     text-decoration: underline;
-  }
+}
 img {
     border: 5px solid #ff9f1c;
     border-radius: 50px;
@@ -78,4 +78,8 @@ img {
 .Q {
     background-color:#a9d6e5;
     font-size: 130%;
+}
+.DA {
+    font-size: 75%;
+
 }
