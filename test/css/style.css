@@ -1,0 +1,12 @@
+body {
+    background-color:green
+}
+h1 {
+    font-family:'Segoe UI';
+    font-size:50px
+
+}
+p {
+    color:blue;
+    text-align:center
+}
