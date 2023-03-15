@@ -31,7 +31,7 @@ pre {
     color:#001427;
     font-family:sans-serif;
     font-weight:bold;
-    font-size:150%;
+    font-size:1em;
 }
 .s {
     color:#6c73b3;
@@ -67,7 +67,7 @@ img {
     padding: 5px;
 }
 .imgwidth{
-    width: 300px;
+    width: 100%;
 }
 .flex {
     display: flex;
@@ -102,11 +102,9 @@ ul {
     margin: 0;
     padding: 0;
     overflow:auto;
-    background-color: #ff9f1c;
+    background-color: #ede0d4;
+
   }
-ul:hover li a{
-    font-size:1.05em;
-}
   
   li{
     float: left;
@@ -115,7 +113,7 @@ ul:hover li a{
   
   li a {
     display: block;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 16px;
     text-decoration: none;
@@ -123,5 +121,5 @@ ul:hover li a{
   }
   
   li a:hover {
-    background-color: #ffca3a;
+    background-color: #ffd6a5;
   }
